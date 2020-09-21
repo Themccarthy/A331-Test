@@ -1,0 +1,18 @@
+2/ Commenter la commande "git status":
+Dans ce cas, la commande git status va afficher :
+	- la branche où on se situe;
+	- si la branche est à jour avec l'origin/master
+	- si des commit doivent être effectués ou non 
+
+3/
+2) 
+Il voit qu'un nouveau fichier a été rajouté dans le répertoire, mais pas dans le projet git.
+
+4) 
+Il voit maintenant le nouveau fichier, mais il affiche qu'il y a des modifications dessus qui n'ont pas été commit.
+
+6)
+Va afficher que la branche est à jouer et qu'il y a aucune modification et aucun commit à faire
+
+8)git log --stat
+Va afficher la liste des différents commits effectués sur la branche
